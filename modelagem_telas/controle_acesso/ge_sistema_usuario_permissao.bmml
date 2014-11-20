@@ -1,0 +1,16 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1025" measuredH="769" mockupW="1023" mockupH="768">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="2" y="1" w="1023" h="768" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::TabBar" x="2" y="90" w="1023" h="655" measuredW="233" measuredH="100" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <hrefs>ge_sistema_usuario_busca%26bm%3Bge_sistema_usuario_busca.bmml%26bm%3Bge_sistema_usuario_busca.bmml%26bm%3Bge_sistema_usuario_busca.bmml%2Cge_sistema_usuario%26bm%3Bge_sistema_usuario.bmml%26bm%3Bge_sistema_usuario.bmml%26bm%3Bge_sistema_usuario.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C89%2C69%2C116%22%20href%3D%22ge_sistema_usuario_busca.bmml%22%20alt%3D%22ge_sistema_usuario_busca%22%20id%3D%2219%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%2269%2C89%2C121%2C116%22%20href%3D%22ge_sistema_usuario.bmml%22%20alt%3D%22ge_sistema_usuario%22%20id%3D%2219%22/%3E</map>
+        <text>Busca%2C%20Edi%E7%E3o%2C%20Permiss%E3o</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
