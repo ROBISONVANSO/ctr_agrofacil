@@ -1,0 +1,5 @@
+> Adicionar a informação do botão novo no local do incluir;
+> Recurso de pesquisa será utilizado através do botão abrindo então uma tela sobreposta com os recursos da pesquisa;
+> Colocar o botão de pesquisar por primeiro e o botão novo por segundo;
+> Trabalhar com a ideia do menu superior fixo incluindo os botões padrões, salvar, editar....
+> Colocar cor de fundo no título da tela;
